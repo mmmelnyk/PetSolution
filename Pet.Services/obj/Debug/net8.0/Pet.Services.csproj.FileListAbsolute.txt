@@ -1,0 +1,11 @@
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/obj/Debug/net8.0/Pet.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/obj/Debug/net8.0/Pet.Services.AssemblyInfoInputs.cache
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/obj/Debug/net8.0/Pet.Services.AssemblyInfo.cs
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/obj/Debug/net8.0/Pet.Services.csproj.CoreCompileInputs.cache
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/bin/Debug/net8.0/Pet.Services.deps.json
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/bin/Debug/net8.0/Pet.Services.dll
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/bin/Debug/net8.0/Pet.Services.pdb
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/obj/Debug/net8.0/Pet.Services.dll
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/obj/Debug/net8.0/refint/Pet.Services.dll
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/obj/Debug/net8.0/Pet.Services.pdb
+/Users/mykola/Documents/GitHub/PetSolution/Pet.Services/obj/Debug/net8.0/ref/Pet.Services.dll
